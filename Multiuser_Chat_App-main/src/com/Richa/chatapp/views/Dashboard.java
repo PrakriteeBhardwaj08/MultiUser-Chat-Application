@@ -1,4 +1,4 @@
-package com.Richa.chatapp.views;
+package com.Prakritee.chatapp.views;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
