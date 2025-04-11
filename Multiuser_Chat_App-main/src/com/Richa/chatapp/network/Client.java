@@ -1,4 +1,4 @@
-package com.Richa.chatapp.network;
+package com.Prakritee.chatapp.network;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -8,7 +8,7 @@ import java.net.UnknownHostException;
 
 import javax.swing.JTextArea;
 
-import com.Richa.chatapp.utils.configReader;
+import com.Prakritee.chatapp.utils.configReader;
 
 public class Client {
 	Socket socket;
