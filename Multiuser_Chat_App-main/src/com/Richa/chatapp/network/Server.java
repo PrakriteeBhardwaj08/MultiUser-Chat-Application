@@ -1,4 +1,4 @@
-package com.Richa.chatapp.network;
+package com.Prakritee.chatapp.network;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -6,7 +6,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
 
-import com.Richa.chatapp.utils.configReader;
+import com.Prakritee.chatapp.utils.configReader;
 
 public class Server {
 	ServerSocket serversocket;
