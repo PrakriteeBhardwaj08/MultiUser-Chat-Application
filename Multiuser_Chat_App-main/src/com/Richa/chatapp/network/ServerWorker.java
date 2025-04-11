@@ -1,4 +1,4 @@
-package com.Richa.chatapp.network;
+package com.Prakritee.chatapp.network;
 
 import java.io.BufferedReader;
 import java.io.IOException;
