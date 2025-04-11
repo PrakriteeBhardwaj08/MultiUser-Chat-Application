@@ -1,4 +1,4 @@
-package com.Richa.chatapp.dao;
+package com.Prakritee.chatapp.dao;
 
 import static com.Prakritee.chatapp.utils.configReader.getValue;
 
