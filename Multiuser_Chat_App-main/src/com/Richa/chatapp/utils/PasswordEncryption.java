@@ -1,4 +1,4 @@
-package com.Richa.chatapp.utils;
+package com.Prakritee.chatapp.utils;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
