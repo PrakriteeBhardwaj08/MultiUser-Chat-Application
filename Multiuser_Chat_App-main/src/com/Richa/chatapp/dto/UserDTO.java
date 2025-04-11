@@ -1,4 +1,4 @@
-package com.Richa.chatapp.dto;
+package com.Prakritee.chatapp.dto;
 
 // DTO (Data Transfer Object)
 public class UserDTO {
