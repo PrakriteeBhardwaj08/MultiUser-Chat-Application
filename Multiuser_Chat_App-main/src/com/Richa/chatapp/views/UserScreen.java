@@ -1,4 +1,4 @@
-package com.Richa.chatapp.views;
+package com.Prakritee.chatapp.views;
 
 import java.awt.EventQueue;
 import java.awt.Color;
@@ -15,8 +15,8 @@ import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 
-import com.Richa.chatapp.dao.UserDAO;
-import com.Richa.chatapp.dto.UserDTO;
+import com.Prakritee.chatapp.dao.UserDAO;
+import com.Prakritee.chatapp.dto.UserDTO;
 
 
 public class UserScreen extends JFrame {
