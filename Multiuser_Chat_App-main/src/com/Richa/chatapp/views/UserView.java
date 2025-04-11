@@ -1,4 +1,4 @@
-package com.Richa.chatapp.views;
+package com.Prakritee.chatapp.views;
 
 import java.awt.Container;
 import java.awt.Font;
