@@ -1,6 +1,6 @@
 package com.Richa.chatapp.dao;
 
-import static com.Richa.chatapp.utils.configReader.getValue;
+import static com.Prakritee.chatapp.utils.configReader.getValue;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
