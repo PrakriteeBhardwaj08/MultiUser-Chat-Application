@@ -1,4 +1,4 @@
-package com.Richa.chatapp.dao;
+package com.Prakritee.chatapp.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -6,8 +6,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import com.Richa.chatapp.dto.UserDTO;
-import com.Richa.chatapp.utils.PasswordEncryption;
+import com.Prakritee.chatapp.dto.UserDTO;
+import com.Prakritee.chatapp.utils.PasswordEncryption;
 
 public class UserDAO {
 	
