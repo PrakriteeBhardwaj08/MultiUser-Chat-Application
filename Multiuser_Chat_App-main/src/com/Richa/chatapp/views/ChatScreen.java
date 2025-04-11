@@ -1,4 +1,4 @@
-package com.Richa.chatapp.views;
+package com.Prakritee.chatapp.views;
 
 	import java.awt.BorderLayout;
 	import java.awt.EventQueue;
@@ -7,8 +7,8 @@ package com.Richa.chatapp.views;
 	import javax.swing.JPanel;
 	import javax.swing.border.EmptyBorder;
 
-	import com.Richa.chatapp.network.Client;
-	import com.Richa.chatapp.utils.UserInfo;
+	import com.Prakritee.chatapp.network.Client;
+	import com.Prakritee.chatapp.utils.UserInfo;
 
 	import javax.swing.JTextArea;
 	import javax.swing.JScrollPane;
